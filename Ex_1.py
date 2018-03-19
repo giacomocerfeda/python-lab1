@@ -1,4 +1,5 @@
-input("Insert two numbers");
+input("Insert two numbers")
+a=int(input())
+b=int(input())
 
-a=input();
-b=input();
+print("The sum of the number is ", a+b)
